@@ -1,0 +1,27 @@
+{
+  "name": "circleci-test",
+  "version": "1.0.0",
+  "description": "circleci test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexunjm/circleci-test.git"
+  },
+  "keywords": [
+    "testing",
+    "test",
+    "circleci"
+  ],
+  "author": "alexun <alexunjm@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexunjm/circleci-test/issues"
+  },
+  "homepage": "https://github.com/alexunjm/circleci-test#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
